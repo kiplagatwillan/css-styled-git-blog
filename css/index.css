@@ -38,16 +38,8 @@ a:hover {
 
 
 /* Willan */
-   body {
-            font-family: Arial, sans-serif;
-            background-color: #f7f7f7;
-            color: #333;
-            line-height: 1.6;
-            margin: 0;
-            padding:20px;
-        }
-
-        #delete-branch, #next-steps, #congrats {
+  
+#delete-branch, #next-steps, #congrats {
             background-color: #fff;
             padding: 20px;
             margin-bottom: 20px;margin-left: 0%;
